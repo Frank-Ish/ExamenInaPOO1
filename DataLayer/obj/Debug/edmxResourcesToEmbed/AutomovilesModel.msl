@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbExamen1POOModelStoreContainer" CdmEntityContainer="dbExamen1POOEntities">
+    <EntitySetMapping Name="tbAutomovil">
+      <EntityTypeMapping TypeName="dbExamen1POOModel.tbAutomovil">
+        <MappingFragment StoreEntitySet="tbAutomovil">
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="vin" ColumnName="vin" />
+          <ScalarProperty Name="placa" ColumnName="placa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbColor">
+      <EntityTypeMapping TypeName="dbExamen1POOModel.tbColor">
+        <MappingFragment StoreEntitySet="tbColor">
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbMarca">
+      <EntityTypeMapping TypeName="dbExamen1POOModel.tbMarca">
+        <MappingFragment StoreEntitySet="tbMarca">
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbTipoVehiculo">
+      <EntityTypeMapping TypeName="dbExamen1POOModel.tbTipoVehiculo">
+        <MappingFragment StoreEntitySet="tbTipoVehiculo">
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

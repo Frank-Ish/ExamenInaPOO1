@@ -1,0 +1,14 @@
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\bin\Debug\Entities.dll.config
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\BusinessLayer\obj\Debug\BusinessLayer.pdb

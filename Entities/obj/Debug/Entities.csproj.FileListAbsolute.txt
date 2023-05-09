@@ -1,0 +1,10 @@
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\bin\Debug\Entities.dll.config
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\bin\Debug\Entities.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\bin\Debug\Entities.pdb
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\bin\Debug\EntityFramework.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\obj\Debug\Entities.dll
+C:\Users\harry\OneDrive\Escritorio\ExamenInaPoo\examen 1 POO\Examen1POO\Entities\obj\Debug\Entities.pdb

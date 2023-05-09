@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOjcIM50mZl9cQcvoUAJPSuYrg6ecIUU/4X+1JMUGVCUdWovkAsgQ6mKu2xjYdmRq+CBj2xgBVJBG+akjorLKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\OneDrive\\Escritorio\\ExamenInaPoo\\examen 1 POO\\Examen1POO\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
